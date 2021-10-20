@@ -8,19 +8,19 @@ This is a copy of the social network Instagram made with Laravel (PHP), Javascri
 ## Structure of the pages 
 
 In the main view of the page, the images uploaded by all users appear, comments can be published and deleted thanks to the comments system that the page has and you can also like and withdraw it.
-![Main view](http://instagram-laravel.test/public/images-laravel-instagram\main-view.PNG)
+![Main view](https://github.com/Agustinadev/instagram-laravel/blob/main/public/images-laravel-instagram/main-view.PNG)
 
 It also has a "saved" section where the publications in which the respective save icon has been clicked are stored. 
 From this general view, you can access the profiles of each user (by clicking on the name) that are respectively structured.
-![Profile view](http://instagram-laravel.test/public/images-laravel-instagram\profile-view.PNG)
+![Profile view](https://github.com/Agustinadev/instagram-laravel/blob/main/public/images-laravel-instagram/profile-view.PNG)
 
 Profiles can be edited by changing the photo, names, ect.
-![Edit profile](http://instagram-laravel.test/public/images-laravel-instagram\edit-profile.PNG)
-![Options](http://instagram-laravel.test/public/images-laravel-instagram\options-of-the-users.PNG)
+![Edit profile](https://github.com/Agustinadev/instagram-laravel/blob/main/public/images-laravel-instagram/edit-profile.PNG)
+![Options](https://github.com/Agustinadev/instagram-laravel/blob/main/public/images-laravel-instagram/options-of-the-users.PNG)
 
 
 It also has a user search engine.
-![Search](http://instagram-laravel.test/public/images-laravel-instagram\search.PNG)
+![Search](https://github.com/Agustinadev/instagram-laravel/blob/main/public/images-laravel-instagram/search.PNG)
 
 
 ## JavaScript functions
