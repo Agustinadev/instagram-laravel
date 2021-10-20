@@ -1,0 +1,21 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Comment extends Model
+{
+    use HasFactory;
+
+    //es porque tiene un usr_id, por eso tambien se puede acceder facilmente en consultas
+    public function user (){
+        return $this->belongsTo(User::class);
+    }
+
+
+    public function image (){
+        return $this->belongsTo(Image::class);
+    }
+}
