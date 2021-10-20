@@ -16,6 +16,7 @@ From this general view, you can access the profiles of each user (by clicking on
 
 Profiles can be edited by changing the photo, names, ect.
 ![Edit profile](https://github.com/Agustinadev/instagram-laravel/blob/main/public/images-laravel-instagram/edit-profile.PNG)
+These are the user's options
 ![Options](https://github.com/Agustinadev/instagram-laravel/blob/main/public/images-laravel-instagram/options-of-the-users.PNG)
 
 
