@@ -8,25 +8,25 @@ This is a copy of the social network Instagram made with Laravel (PHP), Javascri
 ## Structure of the pages 
 
 In the main view of the page, the images uploaded by all users appear, comments can be published and deleted thanks to the comments system that the page has and you can also like and withdraw it.
-![Main view](public/images-laravel-instagram\main-view.PNG)
+![Main view](http://instagram-laravel.test/public/images-laravel-instagram\main-view.PNG)
 
 It also has a "saved" section where the publications in which the respective save icon has been clicked are stored. 
 From this general view, you can access the profiles of each user (by clicking on the name) that are respectively structured.
-![Profile view](public/images-laravel-instagram\profile-view.PNG)
+![Profile view](http://instagram-laravel.test/public/images-laravel-instagram\profile-view.PNG)
 
 Profiles can be edited by changing the photo, names, ect.
-![Edit profile](public/images-laravel-instagram\edit-profile.PNG)
-![Options](public/images-laravel-instagram\options-of-the-users.PNG)
+![Edit profile](http://instagram-laravel.test/public/images-laravel-instagram\edit-profile.PNG)
+![Options](http://instagram-laravel.test/public/images-laravel-instagram\options-of-the-users.PNG)
 
 
 It also has a user search engine.
-![Search](public/images-laravel-instagram\search.PNG)
+![Search](http://instagram-laravel.test/public/images-laravel-instagram\search.PNG)
 
 
 ## JavaScript functions
 
 As for Javascript, there are modal windows in the 3 little points of options that each image has, and in the search engine (to click anywhere and the search disappears). 
-![Modal window](public/images-laravel-instagram\3points.PNG)
+![Modal window](https://github.com/Agustinadev/instagram-laravel/blob/main/public/images-laravel-instagram/3points.PNG)
 
 There is also a use of AJAX for the system of saves and likes (to eliminate functionalities in general). 
 The programming of the search engine so that it begins to search the database from the first letter written.
